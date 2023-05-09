@@ -110,7 +110,7 @@ button,
 [type="button"],
 [type="reset"],
 [type="submit"] {
-    -webkit-appearance: button;
+-webkit-appearance: button;
 }
 
 button::-moz-focus-inner,
@@ -1784,20 +1784,6 @@ ul.category li a:hover {
     width: 100%;
 }
 
-/* .search-form button.btn.search {
-    color: #fff;
-    background: var(--primary);
-    font-size: 16px;
-    width: 100px;
-    font-weight: 500;
-    letter-spacing: 0px;
-    border: none;
-    position: absolute;
-    top: 0;
-    right: 0;
-    height: 55px;
-    display: inline-block;
-} */
 
 a.text-bl {
     display: block;
@@ -2680,9 +2666,6 @@ table th a {
     position: relative;
 }
 
-span.nav-subtitle {
-    /* margin-left: 30px; */
-}
 
 .nav-previous span.fa.fa-arrow-left {
     position: absolute;
@@ -3137,3 +3120,8 @@ ul.breadcrumbs-custom-path a:hover {
         margin-top: 55px;
     }
 }
+
+
+
+
+
