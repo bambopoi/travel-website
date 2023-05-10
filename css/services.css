@@ -14,6 +14,33 @@
     margin: auto;
   }
   
+/* HEADER */
+.navbar a {
+    text-decoration: none;
+    list-style: none;
+    color: #dc4f72;
+    font-weight: 700;
+    letter-spacing: -1px;
+    
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn-outline-primary{
+    color: #dc4f72;
+    background-color: white;
+    border: #d62f58 1px solid;
+    padding: 15px;
+}
+
+.btn-outline-primary:hover {
+    color: #fff;
+    background-color: #dc4f72;
+    border-color: #dc4f72;
+}
 
 
   /* SERVICES */
